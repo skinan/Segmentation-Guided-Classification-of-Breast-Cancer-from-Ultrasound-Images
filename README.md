@@ -1,2 +1,2 @@
 # Segmentation-Guided-Classification-of-Breast-Cancer-from-Ultrasound-Images
-A Breast Cancer Diagnosis project with Segmentation of different Medical Images and Deep Learning based methods.
+This project is a part of the research work titled "Deep integrated pipeline of segmentation guided classification of breast cancer from ultrasound images" published in Biomedical Signal Processing and Control, Elsevier.
